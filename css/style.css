@@ -1,0 +1,21 @@
+
+body{
+    height: 5500px;
+    font-family: "pt-sans",sans-serif;
+    background-color: #777 !important;
+}
+.fixedimg1{
+    background-image: url(../image/mm11.jpg);
+}
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 260px;
+}
+.fixedimg2{
+    background-image: url(../image/mm44.jpg);
+}
+.navbar-brand:hover{
+    text-shadow:  10px 10px 20px white, -10px -10px 20px white;
+
+}
